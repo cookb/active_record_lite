@@ -1,1 +1,1 @@
-THIS README INTENTIONALLY LEFT BLANK
+Lite version of Rails' ActiveRecord
